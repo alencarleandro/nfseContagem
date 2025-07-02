@@ -5,9 +5,9 @@ Nota Fiscal de Serviços
 [![Build Status](https://travis-ci.org/pablopdomingos/nfse.svg?branch=master)](http://travis-ci.org/#!/pablopdomingos/nfse)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pablopdomingos/nfse/blob/master/LICENSE)
 
-## API para geração, assinatura, envio, consulta e cancelamento de Nota Fiscal de Serviços Eletrônica da Prefeitura de Belo Horizonte
+## API para geração, assinatura, envio, consulta e cancelamento de Nota Fiscal de Serviços Eletrônica da Prefeitura de Contagem
 
-### Serviços ativos
+### Serviços ativos de pablopdomingos
 
 - [x] [Geração de NFSe](https://github.com/pablopdomingos/nfse/wiki/Gera%C3%A7%C3%A3o-de-NFSe)
 - [x] [Consulta de NFSe por RPS](https://github.com/pablopdomingos/nfse/wiki/Consulta-de-NFSe)
@@ -26,25 +26,14 @@ Fique à vontade para contribuir ou solicitar melhorias.
 #### Maven
 
 ```maven
-<dependency>
-	<groupId>com.github.pablopdomingos</groupId>
-	<artifactId>nfse-bh</artifactId>
-	<version>1.0.1</version>
-</dependency>
+// A implementar
 ```
 
 #### Gradle
 
 ```gradle
-dependencies {
-  compile 'com.github.pablopdomingos:nfse-bh:1.0.1'
-}
+// A implementar
 ```
 
 ### Changelog
 
-1.0.2 - Atualização URLs para os ambientes de homologação e produção
-
-1.0.1 - Lançamento para ambiente de produção
-
-1.0 - Lançamento Inicial (Suporte somente ao ambiente de homologação)
